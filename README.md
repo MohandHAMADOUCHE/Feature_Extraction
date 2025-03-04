@@ -10,6 +10,7 @@
 ### 1. Cloner le Dépôt
 
 Si vous n'avez pas encore cloné le dépôt, utilisez la commande suivante :
+
 ```
 git clone https://github.com/MohandHAMADOUCHE/Feature_Extraction.git
 
@@ -21,7 +22,7 @@ cd Feature_Extraction
 Créez un environnement virtuel pour isoler les dépendances :
 
 ```
-python3.12 -m venv myvenv
+python3.12 -m venv Myvenv
 ```
 
 ### 3. Activer l'Environnement Virtuel
@@ -31,13 +32,13 @@ Activez l'environnement virtuel :
 - Sur Windows :
 
 ```
-myvenv\Scripts\activate
+Myvenv\Scripts\activate
 ```
 
 - Sur macOS et Linux :
 
 ```
-source myvenv/bin/activate
+source Myvenv/bin/activate
 ```
 
 ### 4. Installer les Dépendances
