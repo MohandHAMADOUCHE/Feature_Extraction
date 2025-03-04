@@ -12,9 +12,9 @@
 Si vous n'avez pas encore cloné le dépôt, utilisez la commande suivante :
 
 ```
-git clone https://github.com/MohandHAMADOUCHE/Feature_Extraction.git
+git clone https://github.com/MohandHAMADOUCHE/Features_Extraction.git
 
-cd Feature_Extraction
+cd Features_Extraction
 ```
 
 ### 2. Créer un Environnement Virtuel
